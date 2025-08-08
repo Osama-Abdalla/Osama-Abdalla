@@ -16,7 +16,7 @@ This repository is a curated space to showcase my cybersecurity projects, resear
 
 
 ## Projects
-- Python for cyber security (Using MITRE ATT&CK framework).   <a href="https://google.com">Project reposit</a>
+- Python for cyber security (Using MITRE ATT&CK framework).   <a href="https://google.com">Project repository </a>
 - Splunk Enterprise analysis.<!--Bots v1,v3 -->
 - Active Directory.<!--josh -->
 - Vulnerabilty Management. <!--josh -->
