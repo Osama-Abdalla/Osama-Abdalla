@@ -16,25 +16,25 @@ This repository is a curated space to showcase my cybersecurity projects, resear
 
 
 ## Projects
-- Python for cyber security (Using MITRE ATT&CK framework).
-- Splunk Enterprise analysis.
-- Active Directory.
-- Vulnerabilty Management.
-<!-- - Cyber Defender. -->
-
+- Python for cyber security (Using MITRE ATT&CK framework).   <a href="https://google.com">Project reposit</a>
+- Splunk Enterprise analysis.<!--Bots v1,v3 -->
+- Active Directory.<!--josh -->
+- Vulnerabilty Management. <!--josh -->
+- Incedence responce. <!-- Cyber defenders /Lets defend -->
+  
+<!-- -->
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation <!--with Shuffle SOAR  -->| SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Case Management <!-- TheHive -->              | SOC Automation Lab|
+| IPS / IDS Rules <!--yara/suricata -->         | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
