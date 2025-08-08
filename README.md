@@ -1,19 +1,28 @@
 # Hello, I'm Osama
 <a href="https://linkedin.com/in/osama-abdalbagi-2081a2235/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriented Cybersecurity Analyst with hands-on experience in threat detection, log analysis, and incident response. I specialize in leveraging tools like Splunk, Wireshark, and various SIEM platforms to uncover vulnerabilities and strengthen digital defenses.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+This repository is a curated space to showcase my cybersecurity projects, research, and practical labs. My goals are to:
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+- Demonstrate technical proficiency in cybersecurity analysis and threat hunting
+- Share insights into log correlation, event code interpretation, and detection strategies
+- Document my learning journey and professional development
+- Connect with recruiters, mentors, and cybersecurity professionals
+- Feel free to explore, contribute, or reach out—collaboration and knowledge-sharing are always welcome!
+
+
 
 ## Projects
--
--
--
+- Python for cyber security (Using MITRE ATT&CK framework).
+- Splunk Enterprise analysis.
+- Active Directory.
+- Vulnerabilty Management.
+<!-- - Cyber Defender. -->
+
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
