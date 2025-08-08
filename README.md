@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriented Cybersecurity Analyst with hands-on experience in threat detection, log analysis, and incident response. I specialize in leveraging tools like Splunk, Wireshark, and various SIEM platforms to uncover vulnerabilities and strengthen digital defenses.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
