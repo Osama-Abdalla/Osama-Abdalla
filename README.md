@@ -37,7 +37,7 @@ This repository is a curated space to showcase my cybersecurity projects, resear
 | IPS / IDS Rules <!--yara/suricata -->         | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<!-- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] -->
 
 ### Network
 <div>
@@ -60,7 +60,7 @@ This repository is a curated space to showcase my cybersecurity projects, resear
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<!-- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]] -->
 <div>
 <img src="https://img.shields.io/badge/Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Cybersecurity Badge" />
 <img src="https://img.shields.io/badge/Qualys%20VMDR-0072C6?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys VMDR Badge" />
