@@ -19,7 +19,7 @@ This repository is a curated space to showcase my cybersecurity projects, resear
 - Python for cyber security (Using MITRE ATT&CK framework).   <a href="https://github.com/Osama-Abdalla/Python-for-cyber-security-Using-MITRE-ATTACK-framework-/blob/main/README.md">Project repository </a>
 - Splunk Enterprise analysis.<!--Bots v1,v3 -->
 - Active Directory.<!--josh -->
-- Vulnerabilty Management. <!--josh -->
+- Vulnerabilty Management. <a href="https://github.com/Osama-Abdalla/Vulnerability-Management/blob/main/README.md">Project repository </a>
 - Incedence responce. <!-- Cyber defenders /Lets defend -->
   
 <!-- -->
