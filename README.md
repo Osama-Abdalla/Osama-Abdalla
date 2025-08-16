@@ -54,7 +54,6 @@ Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriente
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -65,7 +64,8 @@ Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriente
 <img src="https://img.shields.io/badge/Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Cybersecurity Badge" />
 <img src="https://img.shields.io/badge/Qualys%20VMDR-0072C6?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys VMDR Badge" />
 <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Fundamentals Badge" />
-
+<img src="https://img.shields.io/badge/Splunk%20SOC%20Essentials-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk SOC Essentials Badge" />
+<img src="https://img.shields.io/badge/Python%20for%20Cybersecurity-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="InfoSec Python for Cybersecurity Badge" />
 
 </div>
 
