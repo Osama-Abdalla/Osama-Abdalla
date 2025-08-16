@@ -5,7 +5,7 @@
 Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriented Cybersecurity Analyst with hands-on experience in threat detection, log analysis, and incident response. I specialize in leveraging tools like Splunk, Wireshark, and various SIEM platforms to uncover vulnerabilities and strengthen digital defenses.
 
 ## Objective
-This repository is a curated space to showcase my cybersecurity projects, research, and practical labs. My goals are to:
+### This repository is a curated space to showcase my cybersecurity projects, research, and practical labs. My goals are to:
 
 - Demonstrate technical proficiency in cybersecurity analysis and threat hunting
 - Share insights into log correlation, event code interpretation, and detection strategies
