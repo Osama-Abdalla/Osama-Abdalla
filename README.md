@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/osama-abdalbagi-2081a2235/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriented Cybersecurity Analyst with hands-on experience in threat detection, log analysis, and incident response. I specialize in leveraging tools like Splunk, Wireshark, and various SIEM platforms to uncover vulnerabilities and strengthen digital defenses.
+Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriented Cybersecurity Analyst with hands-on experience in Vulnerabilty Management, incident response, log analysis, and threat detection . I specialize in leveraging tools like Splunk, Wireshark, and various SIEM platforms to uncover vulnerabilities and strengthen digital defenses.
 
 ## Objective
 ### This repository is a curated space to showcase my cybersecurity projects, research, and practical labs. My goals are to:
