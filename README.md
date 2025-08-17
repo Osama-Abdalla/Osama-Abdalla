@@ -20,7 +20,7 @@ Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriente
 - Splunk Enterprise analysis.<!--Bots v1,v3 -->
 - Vulnerabilty Management. <a href="https://github.com/Osama-Abdalla/Vulnerability-Management/blob/main/README.md">Project repository </a>
 - Incedence responce.<a href="https://github.com/Osama-Abdalla/Incident-Response/blob/main/README.md">Project repository </a> 
-- Threat intelligence
+- Threat intelligence.<a href="https://github.com/Osama-Abdalla/Threat-Intelligence/blob/main/Case1-Oski/README.md">project repository </a>
 - Active Directory.<!--josh -->
 <!-- -->
 
