@@ -18,10 +18,10 @@ Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriente
 ## Projects
 - Python for cyber security (Using MITRE ATT&CK framework).   <a href="https://github.com/Osama-Abdalla/Python-for-cyber-security-Using-MITRE-ATTACK-framework-/blob/main/README.md">Project repository </a>
 - Splunk Enterprise analysis.<!--Bots v1,v3 -->
-- Vulnerabilty Management. <a href="https://github.com/Osama-Abdalla/Vulnerability-Management/blob/main/README.md">Project repository </a>
+- Vulnerabilty management. <a href="https://github.com/Osama-Abdalla/Vulnerability-Management/blob/main/README.md">Project repository </a>
 - Incedence responce.<a href="https://github.com/Osama-Abdalla/Incident-Response/blob/main/README.md">Project repository </a> 
 - Threat intelligence.<a href="https://github.com/Osama-Abdalla/Threat-Intelligence/blob/main/Case1-Oski/README.md">project repository </a>
-- Active Directory.<!--josh -->
+- Active directory.<!--josh -->
 <!-- -->
 
 
