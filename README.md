@@ -26,10 +26,13 @@ Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriente
 
 
 ## Skills                                             
- - SIEM Implementation and Log Analysis.     -  Network Traffic Monitoring and Attack Detection.       
- - Linux OS                                  - Python      
- Case Management <!-- TheHive -->              
- IPS / IDS Rules <!--yara/suricata -->        
+ - SIEM Implementation and Log Analysis.
+ - Vulnerabilites scanning.
+ - Network Traffic Monitoring and Attack Detection.       
+ - Linux OS.
+ - Python.
+ - Case Management <!-- TheHive -->              
+ - IPS / IDS Rules <!--yara/suricata -->        
  <!-- Security Automation with Shuffle SOAR  -->
 ## Tools
 <!-- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] -->
