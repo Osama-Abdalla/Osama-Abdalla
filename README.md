@@ -19,7 +19,8 @@ Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriente
 
 - Splunk Enterprise analysis.<a href="https://github.com/Osama-Abdalla/Splunk-Enterprise/blob/main/README.md">Project repository </a>
 - Vulnerabilty management. <a href="https://github.com/Osama-Abdalla/Vulnerability-Management/blob/main/README.md">Project repository </a>
-- Incedence responce.<a href="https://github.com/Osama-Abdalla/Incident-Response/blob/main/README.md">Project repository </a> 
+- Incedence responce.<a href="https://github.com/Osama-Abdalla/Incident-Response/blob/main/README.md">Project repository </a>
+- IBM QRadar SIEM Investigation <a href="https://github.com/Osama-Abdalla/IBM-QRadar-SIEM-Investigation/blob/main/README.md">Project repository </a>                   
 - Threat intelligence.<a href="https://github.com/Osama-Abdalla/Threat-Intelligence/blob/main/Case1-Oski/README.md">project repository </a>
 - Python for cyber security (Using MITRE ATT&CK framework).   <a href="https://github.com/Osama-Abdalla/Python-for-cyber-security-Using-MITRE-ATTACK-framework-/blob/main/README.md">Project repository </a>
 <!-- -->
