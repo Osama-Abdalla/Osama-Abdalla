@@ -60,7 +60,6 @@ Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriente
 </div>
 
 ## Certifications
-<!-- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]] -->
 <div>
 <img src="https://img.shields.io/badge/Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Cybersecurity Badge" />
 <img src="https://img.shields.io/badge/Qualys%20VMDR-0072C6?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys VMDR Badge" />
