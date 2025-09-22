@@ -57,7 +57,6 @@ Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriente
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/QRadar_SIEM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/QRadar_SIEM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </div>
 
 ## Certifications
