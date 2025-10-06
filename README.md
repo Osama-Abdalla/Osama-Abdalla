@@ -17,6 +17,7 @@ Welcome to my cybersecurity portfolio! I'm Osama, a dedicated and detail-oriente
 
 ## Projects
 
+- SOC Automation Project.. <a href=https://github.com/Osama-Abdalla/SOC-Automation-project/blob/main/README.md>Project repository </a>
 - Splunk Enterprise analysis.<a href="https://github.com/Osama-Abdalla/Splunk-Enterprise/blob/main/README.md">Project repository </a>
 - Vulnerabilty management. <a href="https://github.com/Osama-Abdalla/Vulnerability-Management/blob/main/README.md">Project repository </a>
 - Incedence responce.<a href="https://github.com/Osama-Abdalla/Incident-Response/blob/main/README.md">Project repository </a>
